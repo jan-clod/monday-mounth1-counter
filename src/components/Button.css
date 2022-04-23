@@ -1,0 +1,17 @@
+.Button {
+    max-width: 90%;
+    height: 100px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(232, 238, 243);
+}
+
+.Button button{
+    margin: auto;
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+}

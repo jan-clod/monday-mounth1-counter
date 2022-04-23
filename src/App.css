@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  width: 350px;
+  height: 250px;
+  margin: auto;
+  background-color: rgb(241, 228, 228);
+  padding: 10px;
+}
+body {
+  background-color: rgb(198, 219, 212);
+}
+
+
